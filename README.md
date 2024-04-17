@@ -3,6 +3,8 @@ Deep learning models for the manuscript
 
 [Identifying core MRI sequences for reliable automatic brain metastasis segmentation](https://www.medrxiv.org/content/10.1101/2023.05.02.23289342v1)
 
+>WARNING: This code base is no longer supported. It still works, but we recommended using [BrainLes AURORA](https://github.com/BrainLesion/AURORA/) instead, which offers much more flexibility in a convenient PyPI package.
+
 ## Installation
 
 1) Clone this repository:
